@@ -30,7 +30,7 @@ This is a simple command-line news application written in Python. It fetches the
 
 For easier access to the application, you can create a command alias in your shell configuration file.
 
-- **For Bash Users**
+- **For Bash/Zsh Users**
 
   Add the following line to your `.bashrc` or `.zshrc` file:
   ```
