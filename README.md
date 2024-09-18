@@ -34,7 +34,7 @@ For easier access to the application, you can create a command alias in your she
 
   Add the following line to your `.bashrc` or `.zshrc` file:
   ```
-  alias news='python /path/to/your/news_terminal_app/main.py'
+  alias news='python /path/to/your/kouetsupy/main.py'
   ```
 
   After adding the alias, reload your shell configuration:
